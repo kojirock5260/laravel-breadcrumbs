@@ -11,6 +11,12 @@
             "email": "dave@davejamesmiller.com"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/kojirock5260/laravel-breadcrumbs"
+        }
+    ],
     "license": "MIT",
     "require": {
         "davejamesmiller/laravel-breadcrumbs": "5.*"
