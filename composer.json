@@ -19,7 +19,7 @@
     ],
     "license": "MIT",
     "require": {
-        "davejamesmiller/laravel-breadcrumbs": "5.*"
+        "davejamesmiller/laravel-breadcrumbs": "dev-master"
     },
     "require-dev": {
         "orchestra/testbench": ">=3.6",
