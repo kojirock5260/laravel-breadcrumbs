@@ -30,7 +30,6 @@
         "php-coveralls/php-coveralls": "^2.0",
         "spatie/phpunit-snapshot-assertions": "^2.0"
     },
-    "minimum-stability": "dev",
     "prefer-stable": true,
     "autoload": {
         "psr-4": {
